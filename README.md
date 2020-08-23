@@ -1,4 +1,4 @@
-# Learning-Materials
+# Learning Materials
 A curated list of CS resources, we found useful and we wanted to share with everybody.
 
 # Background
